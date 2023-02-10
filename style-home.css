@@ -1,0 +1,48 @@
+.tituloPrincipal {
+	padding-left: 20px;
+}
+
+.tituloCentrado {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: red;
+}
+
+#banner {
+	width: 100%;
+}
+
+#tamanioMision {
+	font-size: 20px;
+}
+
+.principal {
+	background: #CCCCCC;
+	padding: 20px;
+}
+
+.diferencial {
+	background: #FFFFFF;
+	padding: 30px;
+}
+
+.items {
+	font-style: italic;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagenDiferencial {
+	width: 50%;
+}
